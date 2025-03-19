@@ -1,0 +1,9 @@
+export { default as PageApropos } from './PageApropos';
+export { default as PageContact } from './PageContact';
+export { default as PageEtapes } from './PageEtapes';
+export { default as PageHome } from './PageHome';
+export { default as PageImpact } from './PageImpact';
+export { default as PagePublication } from './PagePublication';
+export { default as PageRealisation } from './PageRealisation';
+export { default as PageSuccess } from './PageSuccess';
+export { default as PagePie } from './PagePie';
