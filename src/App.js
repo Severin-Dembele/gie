@@ -1,16 +1,10 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Layout } from "./utils";
 import { PageApropos, PageHome, PageImpact, PagePie, PagePublication, PageRealisation, PageSuccess } from "./pages";
-import "flowbite";
-import { useEffect } from "react";
 import PageGie from "./pages/PageGie";
 
 function App() {
-  useEffect(() => {
-    if (window.Flowbite) {
-      window.Flowbite.init();
-    }
-  }, []);
+  
   return (
     <Router>
       <Routes>

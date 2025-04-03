@@ -25,7 +25,7 @@ function PageRealisation() {
           <div class="grid gap-12 sm:grid-cols-2 lg:grid-cols-4">
             <article class="max-w-xs">
               <a href="#">
-                <img src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/article/blog-1.png" class="mb-5 rounded-lg" alt="Image 1" />
+                <img src={require("../images/image1.jpg")}  class="mb-5 rounded-lg" alt="Image 1" />
               </a>
               <h2 class="mb-2 text-xl font-bold leading-tight text-gray-900 dark:text-white">
                 <a href="#">Notre centre de formation</a>
@@ -40,7 +40,7 @@ function PageRealisation() {
             </article>
             <article class="max-w-xs">
               <a href="#">
-                <img src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/article/blog-2.png" class="mb-5 rounded-lg" alt="Image 2" />
+                <img src={require("../images/image2.jpg")} class="mb-5 rounded-lg" alt="Image 2" />
               </a>
               <h2 class="mb-2 text-xl font-bold leading-tight text-gray-900 dark:text-white">
                 <a href="#">Conseils pour la conception d'entreprise</a>
@@ -55,7 +55,7 @@ function PageRealisation() {
             </article>
             <article class="max-w-xs">
               <a href="#">
-                <img src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/article/blog-3.png" class="mb-5 rounded-lg" alt="Image 3" />
+                <img src={require("../images/image3.jpg")} class="mb-5 rounded-lg" alt="Image 3" />
               </a>
               <h2 class="mb-2 text-xl font-bold leading-tight text-gray-900 dark:text-white">
                 <a href="#">Nous avons collaboré avec Google</a>
@@ -70,7 +70,7 @@ function PageRealisation() {
             </article>
             <article class="max-w-xs">
               <a href="#">
-                <img src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/article/blog-4.png" class="mb-5 rounded-lg" alt="Image 4" />
+                <img src={require("../images/image8.jpg")} class="mb-5 rounded-lg" alt="Image 4" />
               </a>
               <h2 class="mb-2 text-xl font-bold leading-tight text-gray-900 dark:text-white">
                 <a href="#">Notre premier projet en finance numérique</a>
