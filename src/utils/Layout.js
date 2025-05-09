@@ -28,7 +28,7 @@ function Layout() {
                 <nav className="max-w-screen-xl mx-auto p-4 flex justify-between items-center">
                     <NavLink to={routes.gie} className="flex items-center space-x-3">
                         <img src={require("../images/logo.jpg")} className="h-12" alt="GIE Logo" />
-                        <span className="text-2xl font-semibold">GIE</span>
+                        <span className="text-2xl font-semibold">Formateur IP</span>
                     </NavLink>
                     
                     {/* Toggle Button Mobile */}

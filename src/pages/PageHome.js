@@ -7,8 +7,8 @@ function PageHome() {
         <div>
             <section class="bg-white dark:bg-gray-900 pt-40">
                 <div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16">
-                    <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Bienvenue à GIE</h1>
-                    <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 lg:px-48 dark:text-gray-400">Nous sommes un groupe de formateus passionnés formés à l'approche IP (Initiative Personnelle) par l'Université de Leuphana. Nous entendons à travers notre GIE changer le Mindset des entrepreneurs Africains au profit d'entreprises performantes et pérennes.</p>
+                    <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Bienvenue sur la plateforme Formateur IP</h1>
+                    <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 lg:px-48 dark:text-gray-400">Nous sommes un groupe de formateus passionnés formés à l'approche IP (Initiative Personnelle) par l'Université de Leuphana. Nous entendons à travers  Formateur IP changer le Mindset des entrepreneurs Africains au profit d'entreprises performantes et pérennes.</p>
                     <div class="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0">
                         <Link to="/gie/about" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
                             En savoir plus
@@ -52,7 +52,7 @@ function PageHome() {
 
                     <div class="items-center gap-8 lg:grid lg:grid-cols-2 xl:gap-16">
                         <div class="text-gray-500 sm:text-lg dark:text-gray-400">
-                            <h2 class="mb-4 text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white">Formation PI</h2>
+                            <h2 class="mb-4 text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white">Formation IP</h2>
                             <p class="mb-8 font-light lg:text-xl">La formation à l'initiative personnelle (IP) est un programme psychologique destiné aux
                                 entrepreneurs ayant déjà une entreprise. Il a été développé au sein du groupe Frese et mis en
                                 œuvre dans le cadre de plusieurs projets de recherche financés à l'échelle internationale en
@@ -72,7 +72,7 @@ function PageHome() {
                                     <span class="text-base font-medium leading-tight text-gray-900 dark:text-white">Objectifs communs</span>
                                 </li>
                             </ul>
-                            <p class="mb-8 font-light lg:text-xl">Le GIE est une solution idéale pour les entreprises cherchant à maximiser leurs ressources et à atteindre des résultats significatifs.</p>
+                            <p class="mb-8 font-light lg:text-xl">Formateur IP est une solution idéale pour les entreprises cherchant à maximiser leurs ressources et à atteindre des résultats significatifs.</p>
                         </div>
                         <img class="hidden w-full mb-4 rounded-lg lg:mb-0 lg:flex" src={require("../images/image6.png")} alt="dashboard feature image" />
                     </div>
@@ -104,7 +104,7 @@ function PageHome() {
                                     <span class="text-base font-medium leading-tight text-gray-900 dark:text-white">Gestion des connaissances</span>
                                 </li>
                             </ul>
-                            <p class="font-light lg:text-xl">Le GIE est une solution idéale pour les entreprises cherchant à maximiser leurs ressources et à atteindre des résultats significatifs. En collaborant étroitement, les membres peuvent partager des connaissances, des compétences et des ressources pour surmonter les défis communs et saisir de nouvelles opportunités.</p>
+                            <p class="font-light lg:text-xl">Formateur IP  est une solution idéale pour les entreprises cherchant à maximiser leurs ressources et à atteindre des résultats significatifs. En collaborant étroitement, les membres peuvent partager des connaissances, des compétences et des ressources pour surmonter les défis communs et saisir de nouvelles opportunités.</p>
                         </div>
                     </div>
 
@@ -165,7 +165,7 @@ function PageHome() {
                     <div class="mx-auto max-w-screen-sm text-center mb-8 lg:mb-16">
                         <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white"></h2>
                         <p class="font-light text-gray-500 lg:mb-16 sm:text-xl dark:text-gray-400">Vous souhaitez en savoir plus sur les esprits et les cœurs qui se cachent derrière
-                            l'organisation à but non lucratif GIE ? Rencontrez notre équipe et apprenez-en
+                            formateur IP BF ? Rencontrez notre équipe et apprenez-en
                             plus sur notre vision, notre mission et nos valeurs.</p>
                     </div>
                     <div class="grid gap-8 mb-6 lg:mb-16 md:grid-cols-2">
@@ -179,7 +179,7 @@ function PageHome() {
                                 </h3>
                                 <span class="text-gray-500 dark:text-gray-400">Administrateur</span>
                                 <p class="mt-3 mb-4 font-light text-gray-500 dark:text-gray-400">
-                                    L'administrateur du GIE est chargé de la gestion et de l'administration de l'organisation.
+                                    L'administrateur de Formateur IP  est chargé de la gestion et de l'administration de l'organisation.
                                 </p>
 
                             </div>
@@ -194,7 +194,7 @@ function PageHome() {
                                 </h3>
                                 <span class="text-gray-500 dark:text-gray-400">Chargé du développement des affaires (CDA)</span>
                                 <p class="mt-3 mb-4 font-light text-gray-500 dark:text-gray-400">
-                                    Le  CDA contribue à la croissance du GIE en identifiant des opportunités de partenariat et en développant des relations avec des partenaires potentiels.
+                                    Le  CDA contribue à la croissance de Formateur IP en identifiant des opportunités de partenariat et en développant des relations avec des partenaires potentiels.
                                 </p>
 
                             </div>
@@ -225,7 +225,7 @@ function PageHome() {
                                 </h3>
                                 <span class="text-gray-500 dark:text-gray-400">Chargé du marketing et de l’organisation</span>
                                 <p class="mt-3 mb-4 font-light text-gray-500 dark:text-gray-400">
-                                Contribue à la mise en œuvre de la stratégie marketing et en assurant une organisation efficace des activités du GIE. 
+                                Contribue à la mise en œuvre de la stratégie marketing et en assurant une organisation efficace des activités de Formateur IP. 
                                 </p>
 
                                
